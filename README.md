@@ -1,2 +1,2 @@
-# Matlab-simulations
+# Matlab-simulations.
 ## Simulations in Matlab.
