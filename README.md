@@ -7,4 +7,4 @@
 ### 4. Image processing .
 ### 5.PID control.
 ### 6. Power Distribution .
-### 7. Solar Imagry 
+### 7. Solar Imagry.
