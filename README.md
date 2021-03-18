@@ -8,3 +8,4 @@
 ### 5.PID control.
 ### 6. Power Distribution .
 ### 7. Solar Imagry.
+### 8. Load simulation 
